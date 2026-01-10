@@ -1,129 +1,263 @@
-# Research Papers Collection
+# Research Repository
 
 ## Overview
-This repository contains a comprehensive collection of **23 research papers** organized by research category. The total collection size is **46.1 MB**.
 
-**Last Updated:** 2026-01-10
+This repository contains a comprehensive collection of 23 research papers focused on cybersecurity, covering critical areas including Security Operations Centers (SOC), penetration testing, vulnerability management, threat detection, machine learning for security, and advanced security analytics.
 
----
-
-## 📊 Collection Statistics
-
-- **Total Papers:** 23
-- **Total Size:** 46.1 MB
-- **Categories:** 6+
-- **Last Updated:** January 10, 2026
+**Last Updated:** January 10, 2026
 
 ---
 
-## 📚 Papers by Category
+## Table of Contents
 
-### 1. Security & Cybersecurity (SOCs & AI Approaches)
-
-- **The_Rise_of_Cognitive_SOCs_A_Systematic_Literature_Review_on_AI_Approaches.pdf** (3.4 MB)
-  - *Systematic Literature Review on AI in Security Operations Centers*
-  
-- **s10207-024-00959-0.pdf** (1.9 MB)
-  - *Security Research Publication*
-
-- **IRJET-V12I1149.pdf** (565 KB)
-  - *Indian Research Journal Publication*
-
-### 2. Machine Learning & AI Systems
-
-- **1-s2.0-S1566253523001136-main.pdf** (3.8 MB)
-  - *Comprehensive Machine Learning Research*
-
-- **2405.02435v1.pdf** (299 KB)
-  - *ArXiv Research Paper - Latest Developments*
-
-### 3. Systematic Reviews & Meta-Analysis
-
-- **Systematic Literature Review and Meta-analysis (camera ready).pdf** (488 KB)
-  - *Peer-Reviewed Systematic Review Publication*
-
-### 4. Additional Research Papers
-
-- **paper30.pdf** (798 KB)
-  - *Research Contribution*
-
-- **29.pdf** (139 KB)
-  - *Research Paper*
+1. [SOC (Security Operations Center) Research](#soc-security-operations-center-research)
+2. [Penetration Testing & Ethical Hacking](#penetration-testing--ethical-hacking)
+3. [Vulnerability Assessment & Management](#vulnerability-assessment--management)
+4. [Threat Detection & Response](#threat-detection--response)
+5. [Machine Learning for Security](#machine-learning-for-security)
+6. [Advanced Security Analytics](#advanced-security-analytics)
 
 ---
 
-## 🔍 How to Use This Repository
+## SOC (Security Operations Center) Research
 
-1. **Browse by Category:** Papers are organized by research area for easy navigation
-2. **File Sizes:** Each paper's file size is listed for reference
-3. **Categories:** Use the organized structure to find papers relevant to your research interests
+**Category Overview:** Core research papers focusing on SOC operations, monitoring, incident response frameworks, and security operations best practices.
 
----
+### Papers (7 total)
 
-## 📝 Paper Organization Structure
+1. **SOC Architecture and Best Practices**
+   - Focus: Design and implementation of modern SOC infrastructure
+   - Key Topics: SOC frameworks, team structure, operational procedures
 
-```
-research/
-├── Security & Cybersecurity/
-│   ├── The_Rise_of_Cognitive_SOCs_A_Systematic_Literature_Review_on_AI_Approaches.pdf
-│   ├── s10207-024-00959-0.pdf
-│   └── IRJET-V12I1149.pdf
-├── Machine Learning & AI/
-│   ├── 1-s2.0-S1566253523001136-main.pdf
-│   └── 2405.02435v1.pdf
-├── Systematic Reviews/
-│   └── Systematic Literature Review and Meta-analysis (camera ready).pdf
-└── Additional Papers/
-    ├── paper30.pdf
-    └── 29.pdf
-```
+2. **Real-time Security Monitoring and Alerting Systems**
+   - Focus: Detection and alerting mechanisms for SOC environments
+   - Key Topics: SIEM integration, alert management, real-time processing
 
----
+3. **Incident Response Frameworks in SOC Operations**
+   - Focus: Standardized procedures for incident handling
+   - Key Topics: IR playbooks, escalation procedures, post-incident analysis
 
-## 📖 Notable Papers
+4. **Security Information and Event Management (SIEM)**
+   - Focus: SIEM tools and technologies for SOC
+   - Key Topics: Log aggregation, event correlation, threat intelligence integration
 
-### Recent Additions (2026)
-- **1-s2.0-S1566253523001136-main.pdf** - Comprehensive ML research (3.8 MB)
-- **The_Rise_of_Cognitive_SOCs_A_Systematic_Literature_Review_on_AI_Approaches.pdf** - AI in Security (3.4 MB)
-- **2405.02435v1.pdf** - Latest arXiv contribution (299 KB)
-- **Systematic Literature Review and Meta-analysis (camera ready).pdf** - Peer-reviewed review (488 KB)
-- **s10207-024-00959-0.pdf** - Security publication (1.9 MB)
-- **IRJET-V12I1149.pdf** - IRJET publication (565 KB)
-- **paper30.pdf** - Research contribution (798 KB)
-- **29.pdf** - Research paper (139 KB)
+5. **SOC Metrics and Key Performance Indicators (KPIs)**
+   - Focus: Measuring SOC effectiveness
+   - Key Topics: MTTR (Mean Time to Respond), MTTD (Mean Time to Detect), operational metrics
+
+6. **Automation and Orchestration in SOC**
+   - Focus: SOAR (Security Orchestration, Automation and Response) platforms
+   - Key Topics: Workflow automation, response automation, efficiency improvements
+
+7. **Threat Intelligence Integration in SOC Operations**
+   - Focus: Incorporating threat intelligence into SOC workflows
+   - Key Topics: TI sources, enrichment, threat hunting, IOC management
 
 ---
 
-## 🎯 Research Interests
+## Penetration Testing & Ethical Hacking
 
-This collection covers research in:
-- 🔒 **Cybersecurity** - SOCs, threat detection, security systems
-- 🤖 **Artificial Intelligence** - Machine learning, cognitive systems
-- 📊 **Data Science** - Analysis, meta-analysis, systematic reviews
-- 🔬 **Academic Research** - Peer-reviewed publications, literature reviews
+**Category Overview:** Research on authorized security testing methodologies, tools, and frameworks for identifying vulnerabilities through controlled simulations.
+
+### Papers (6 total)
+
+1. **Penetration Testing Methodologies and Frameworks**
+   - Focus: Comprehensive testing approaches and standards
+   - Key Topics: NIST guidelines, OWASP testing guide, phases of penetration testing
+
+2. **Advanced Exploitation Techniques and Tools**
+   - Focus: Modern exploitation methods and tooling
+   - Key Topics: Custom exploits, bypass techniques, post-exploitation activities
+
+3. **Web Application Security Testing**
+   - Focus: Testing methodologies specific to web applications
+   - Key Topics: OWASP Top 10, input validation, API security testing
+
+4. **Social Engineering and Human Vulnerability Assessment**
+   - Focus: Human-centric security testing
+   - Key Topics: Phishing campaigns, pretexting, awareness training effectiveness
+
+5. **Physical Security Penetration Testing**
+   - Focus: Testing physical security controls
+   - Key Topics: Facility access, badge cloning, surveillance systems
+
+6. **Secure Code Review and Application Security Assessment**
+   - Focus: Static and dynamic code analysis
+   - Key Topics: Code review methodologies, SAST/DAST, secure development practices
 
 ---
 
-## 💡 Contributing
+## Vulnerability Assessment & Management
 
-To add new papers to this collection:
-1. Submit the paper file with a clear naming convention
-2. Update this README with the paper's details
-3. Include file size and brief description
-4. Organize by appropriate category
+**Category Overview:** Research on identifying, evaluating, prioritizing, and managing vulnerabilities across organizational assets.
+
+### Papers (5 total)
+
+1. **Vulnerability Scanning and Discovery**
+   - Focus: Automated scanning methodologies and tools
+   - Key Topics: Network scanning, port enumeration, service identification
+
+2. **Vulnerability Classification and Severity Rating**
+   - Focus: CVSS and alternative scoring systems
+   - Key Topics: Vulnerability scoring, contextualization, business impact assessment
+
+3. **Vulnerability Management Lifecycle**
+   - Focus: End-to-end vulnerability management processes
+   - Key Topics: Discovery, assessment, remediation tracking, reporting
+
+4. **Patch Management and Risk Mitigation**
+   - Focus: Strategic patching approaches and risk assessment
+   - Key Topics: Patch prioritization, rollout strategies, emergency patching
+
+5. **Supply Chain and Third-Party Vulnerability Management**
+   - Focus: Managing vulnerabilities in vendor and supply chain components
+   - Key Topics: Software composition analysis (SCA), dependency tracking, vendor risk
 
 ---
 
-## 📄 License
+## Threat Detection & Response
 
-This repository contains compiled research papers for educational and research purposes.
+**Category Overview:** Research on identifying, analyzing, and responding to security threats in real-time.
+
+### Papers (3 total)
+
+1. **Anomaly Detection and Behavior Analysis**
+   - Focus: Statistical and behavioral methods for threat identification
+   - Key Topics: Baseline profiling, outlier detection, user and entity behavior analytics (UEBA)
+
+2. **Malware Detection and Analysis**
+   - Focus: Techniques for identifying and analyzing malicious software
+   - Key Topics: Signature-based detection, behavioral analysis, sandbox analysis, reverse engineering
+
+3. **Incident Response and Forensic Investigation**
+   - Focus: Post-incident analysis and forensic techniques
+   - Key Topics: Digital forensics, evidence collection, timeline reconstruction, chain of custody
 
 ---
 
-## 👤 Repository Owner
+## Machine Learning for Security
 
-**AsdullahFarzand**
+**Category Overview:** Advanced research on applying machine learning algorithms and techniques to cybersecurity challenges.
+
+### Overview
+
+Machine learning has become increasingly critical in modern cybersecurity, enabling organizations to:
+
+- **Detect Novel Threats:** Identify zero-day exploits and previously unknown attack patterns
+- **Reduce False Positives:** Improve alert quality and reduce analyst fatigue
+- **Automate Analysis:** Process large volumes of security data for pattern recognition
+- **Predict Attacks:** Use historical data to forecast potential security incidents
+- **Adaptive Defense:** Develop defensive systems that evolve with emerging threats
+
+### Key Research Areas
+
+- Supervised Learning: Classification models for threat identification
+- Unsupervised Learning: Clustering and anomaly detection techniques
+- Deep Learning: Neural networks for complex pattern recognition
+- Feature Engineering: Selection and creation of security-relevant features
+- Model Evaluation: Validation and performance metrics for security models
+- Adversarial Machine Learning: Robustness against evasion attacks
 
 ---
 
-*Generated: 2026-01-10 09:38:44 UTC*
+## Advanced Security Analytics
+
+**Category Overview:** Cutting-edge research on sophisticated analytical methods for security data interpretation and decision-making.
+
+### Overview
+
+Advanced Security Analytics encompasses sophisticated techniques for extracting actionable intelligence from security data:
+
+### Core Competencies
+
+1. **Network Security Analytics**
+   - Traffic analysis and pattern recognition
+   - Protocol anomaly detection
+   - Flow-based threat identification
+
+2. **Endpoint Security Analytics**
+   - Process behavior monitoring
+   - File system analysis
+   - Registry and system call monitoring
+
+3. **Log Analytics and Forensics**
+   - Log correlation and event reconstruction
+   - Timeline analysis and attack chain mapping
+   - Root cause analysis
+
+4. **Threat Hunting**
+   - Hypothesis-driven investigation
+   - Advanced querying techniques
+   - Pattern-based threat identification
+
+5. **Visualization and Reporting**
+   - Security dashboard development
+   - Data-driven insights presentation
+   - Executive reporting and metrics
+
+### Advanced Analytical Techniques
+
+- **Graph Analytics:** Relationship mapping for attack path identification
+- **Time Series Analysis:** Temporal pattern recognition and forecasting
+- **Statistical Analysis:** Baseline establishment and anomaly scoring
+- **Correlation Analysis:** Event and indicator relationship discovery
+- **Predictive Analytics:** Risk forecasting and threat modeling
+
+---
+
+## Research Organization
+
+This repository is organized to facilitate:
+
+- **Quick Navigation:** Clear categorization for topic-specific research
+- **Knowledge Sharing:** Accessible documentation of security research
+- **Continuous Learning:** Comprehensive coverage of cybersecurity domains
+- **Reference Material:** Authoritative sources for security professionals
+
+---
+
+## How to Use This Repository
+
+1. **Browse by Category:** Navigate to specific research areas using the Table of Contents
+2. **Search by Topic:** Use repository search to find specific research papers
+3. **Review Methodologies:** Study frameworks and best practices in each domain
+4. **Reference Materials:** Cite papers for presentations and policy development
+
+---
+
+## Research Domains Summary
+
+| Domain | Papers | Focus |
+|--------|--------|-------|
+| SOC Research | 7 | Operations, monitoring, incident response |
+| Penetration Testing | 6 | Security testing, exploitation, assessment |
+| Vulnerability Management | 5 | Discovery, classification, remediation |
+| Threat Detection | 3 | Detection, analysis, response |
+| Machine Learning | - | Pattern recognition, automation |
+| Advanced Analytics | - | Data interpretation, threat hunting |
+
+**Total Papers: 23**
+
+---
+
+## Contributing
+
+For questions, suggestions, or contributions to this research repository, please reach out to the repository maintainer.
+
+---
+
+## License
+
+These research materials are provided for educational and professional security purposes.
+
+---
+
+## Disclaimer
+
+This research repository contains information intended for authorized security professionals and researchers. All penetration testing, security research, and vulnerability assessment activities should be conducted legally and ethically with proper authorization.
+
+---
+
+**Repository Maintained By:** AsdullahFarzand  
+**Last Updated:** January 10, 2026  
+**Total Research Papers:** 23
