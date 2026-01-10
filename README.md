@@ -2,7 +2,7 @@
 
 ## Overview
 
-This repository contains a comprehensive collection of 23 research papers focused on cybersecurity, covering critical areas including Security Operations Centers (SOC), penetration testing, vulnerability management, threat detection, machine learning for security, and advanced security analytics.
+This repository contains a comprehensive collection of 24 research papers focused on cybersecurity, covering critical areas including Security Operations Centers (SOC), penetration testing, vulnerability management, threat detection, machine learning for security, advanced security analytics, and critical analysis of AI limitations in cybersecurity.
 
 **Last Updated:** January 10, 2026
 
@@ -16,6 +16,7 @@ This repository contains a comprehensive collection of 23 research papers focuse
 4. [Threat Detection & Response](#threat-detection--response)
 5. [Machine Learning for Security](#machine-learning-for-security)
 6. [Advanced Security Analytics](#advanced-security-analytics)
+7. [AI Limitations in Cybersecurity (Featured Research)](#ai-limitations-in-cybersecurity-featured-research)
 
 ---
 
@@ -205,6 +206,58 @@ Advanced Security Analytics encompasses sophisticated techniques for extracting 
 
 ---
 
+## AI Limitations in Cybersecurity (Featured Research)
+
+**Category Overview:** Critical analysis of why 100% reliance on Artificial Intelligence in cybersecurity is not advisable, examining limitations across SOC, Penetration Testing, and Vulnerability Assessment domains.
+
+### Featured Paper
+
+📄 **[Why We Cannot 100% Rely on AI in Cybersecurity](AI_LIMITATIONS_IN_CYBERSECURITY.md)**
+
+**Abstract:** This comprehensive research paper examines the fundamental limitations of AI across three critical cybersecurity domains. Through analysis of current AI capabilities, documented failures, and inherent technological constraints, the paper demonstrates why a hybrid human-AI approach remains essential for effective cybersecurity defense.
+
+### Key Topics Covered
+
+1. **AI Limitations in SOC Operations**
+   - False positive challenges and alert fatigue
+   - Novel threat detection failures
+   - Contextual understanding deficiency
+   - Adversarial ML vulnerabilities
+   - Automated response risks
+
+2. **AI Limitations in Penetration Testing**
+   - Lack of creative exploitation capabilities
+   - Business logic vulnerability blindness
+   - Physical security testing impossibility
+   - Social engineering limitations
+   - Ethical decision-making requirements
+
+3. **AI Limitations in Vulnerability Assessment**
+   - Context-blind prioritization issues
+   - False negatives in complex environments
+   - Remediation impact misunderstanding
+   - Asset inventory limitations
+   - Vulnerability chaining blindness
+
+### Research Highlights
+
+| Domain | AI Capability Level | Human Required Level |
+|--------|--------------------|--------------------|
+| SOC Operations | 60-70% | 30-40% |
+| Penetration Testing | 20-30% | 70-80% |
+| Vulnerability Assessment | 50-60% | 40-50% |
+
+### Recommendations
+
+The paper concludes with a comprehensive framework for optimal human-AI collaboration:
+
+- **Tiered Response Model** for SOC operations
+- **Hybrid Testing Approach** for penetration testing
+- **Enhanced Prioritization Model** for vulnerability assessment
+- **Organizational governance frameworks** for AI in security
+
+---
+
 ## Research Organization
 
 This repository is organized to facilitate:
@@ -235,8 +288,9 @@ This repository is organized to facilitate:
 | Threat Detection | 3 | Detection, analysis, response |
 | Machine Learning | - | Pattern recognition, automation |
 | Advanced Analytics | - | Data interpretation, threat hunting |
+| **AI Limitations (Featured)** | **1** | **Critical analysis of AI reliability in cybersecurity** |
 
-**Total Papers: 23**
+**Total Papers: 24**
 
 ---
 
@@ -260,4 +314,4 @@ This research repository contains information intended for authorized security p
 
 **Repository Maintained By:** AsdullahFarzand  
 **Last Updated:** January 10, 2026  
-**Total Research Papers:** 23
+**Total Research Papers:** 24
