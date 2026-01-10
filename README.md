@@ -4,7 +4,18 @@
 
 This repository contains a comprehensive collection of 24 research papers focused on cybersecurity, covering critical areas including Security Operations Centers (SOC), penetration testing, vulnerability management, threat detection, machine learning for security, advanced security analytics, and critical analysis of AI limitations in cybersecurity.
 
-**Last Updated:** January 10, 2026
+**Last Updated:** January 10, 2026  
+**Repository Maintainer:** AsdullahFarzand
+
+---
+
+## Quick Navigation
+
+| Document | Description |
+|----------|-------------|
+| 📄 [AI Limitations Research](AI_LIMITATIONS_IN_CYBERSECURITY.md) | Featured paper on AI limitations in cybersecurity |
+| 📋 [Vulnerability Index](CATEGORY_VULNERABILITY_DETAILED_INDEX.md) | Detailed vulnerability assessment paper index |
+| 📚 [Paper Index](PAPER_INDEX.md) | Complete mapping of all PDF papers with citations |
 
 ---
 
@@ -275,6 +286,7 @@ This repository is organized to facilitate:
 2. **Search by Topic:** Use repository search to find specific research papers
 3. **Review Methodologies:** Study frameworks and best practices in each domain
 4. **Reference Materials:** Cite papers for presentations and policy development
+5. **Paper Index:** Use [PAPER_INDEX.md](PAPER_INDEX.md) for complete citation information
 
 ---
 
@@ -291,6 +303,17 @@ This repository is organized to facilitate:
 | **AI Limitations (Featured)** | **1** | **Critical analysis of AI reliability in cybersecurity** |
 
 **Total Papers: 24**
+
+---
+
+## Repository Documentation
+
+| Document | Description | Status |
+|----------|-------------|--------|
+| [README.md](README.md) | Repository overview and navigation | ✅ Current |
+| [AI_LIMITATIONS_IN_CYBERSECURITY.md](AI_LIMITATIONS_IN_CYBERSECURITY.md) | Featured research paper | ✅ Current |
+| [CATEGORY_VULNERABILITY_DETAILED_INDEX.md](CATEGORY_VULNERABILITY_DETAILED_INDEX.md) | Vulnerability paper index | ✅ Current |
+| [PAPER_INDEX.md](PAPER_INDEX.md) | Complete paper-to-PDF mapping with citations | ✅ Current |
 
 ---
 
