@@ -11,11 +11,27 @@ This repository contains a comprehensive collection of 24 research papers focuse
 
 ## Quick Navigation
 
+### Core Documentation
 | Document | Description |
 |----------|-------------|
 | 📄 [AI Limitations Research](AI_LIMITATIONS_IN_CYBERSECURITY.md) | Featured paper on AI limitations in cybersecurity |
 | 📋 [Vulnerability Index](CATEGORY_VULNERABILITY_DETAILED_INDEX.md) | Detailed vulnerability assessment paper index |
 | 📚 [Paper Index](PAPER_INDEX.md) | Complete mapping of all PDF papers with citations |
+
+### Research Resources
+| Document | Description |
+|----------|-------------|
+| 📖 [Annotated Bibliography](ANNOTATED_BIBLIOGRAPHY.md) | Detailed summaries and critical analysis of all papers |
+| 🔬 [Methodology](METHODOLOGY.md) | Research methodology and literature review process |
+| 🔍 [Research Gaps](RESEARCH_GAPS.md) | Identified gaps and future research directions |
+| 📝 [Glossary](GLOSSARY.md) | Cybersecurity terminology definitions (100+ terms) |
+
+### Practical Guides
+| Document | Description |
+|----------|-------------|
+| 🛠️ [Tools & Frameworks](TOOLS_AND_FRAMEWORKS.md) | Security tools referenced in research |
+| 📋 [Implementation Guide](IMPLEMENTATION_GUIDE.md) | How to apply research findings |
+| 📚 [BibTeX References](references.bib) | Citation file for academic use |
 
 ---
 
@@ -314,6 +330,13 @@ This repository is organized to facilitate:
 | [AI_LIMITATIONS_IN_CYBERSECURITY.md](AI_LIMITATIONS_IN_CYBERSECURITY.md) | Featured research paper | ✅ Current |
 | [CATEGORY_VULNERABILITY_DETAILED_INDEX.md](CATEGORY_VULNERABILITY_DETAILED_INDEX.md) | Vulnerability paper index | ✅ Current |
 | [PAPER_INDEX.md](PAPER_INDEX.md) | Complete paper-to-PDF mapping with citations | ✅ Current |
+| [ANNOTATED_BIBLIOGRAPHY.md](ANNOTATED_BIBLIOGRAPHY.md) | Detailed paper summaries and analysis | ✅ New |
+| [METHODOLOGY.md](METHODOLOGY.md) | Research methodology documentation | ✅ New |
+| [RESEARCH_GAPS.md](RESEARCH_GAPS.md) | Identified gaps and future directions | ✅ New |
+| [GLOSSARY.md](GLOSSARY.md) | Cybersecurity terminology (100+ terms) | ✅ New |
+| [TOOLS_AND_FRAMEWORKS.md](TOOLS_AND_FRAMEWORKS.md) | Security tools and frameworks catalog | ✅ New |
+| [IMPLEMENTATION_GUIDE.md](IMPLEMENTATION_GUIDE.md) | Practical implementation guidance | ✅ New |
+| [references.bib](references.bib) | BibTeX citation file | ✅ New |
 
 ---
 
