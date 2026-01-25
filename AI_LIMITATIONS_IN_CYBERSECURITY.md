@@ -45,12 +45,12 @@ However, despite these substantial investments and technological advances, the c
 
 Our hypothesis is that while AI provides significant value in cybersecurity operations, it cannot serve as a complete replacement for human expertise due to fundamental limitations in:
 
-1. Understanding context and nuance
-2. Adapting to novel, zero-day threats
-3. Making ethical and business-critical decisions
-4. Creative problem-solving and lateral thinking
-5. Understanding adversarial intent and motivation
-6. Managing false positives and false negatives effectively
+1. Grasping the deeper context and subtle nuances within the data
+2. Responding and adapting quickly when zero-day threats emerge
+3. Navigating ethical dilemmas and making business-critical decisions that carry real consequences
+4. Thinking creatively and approaching problems from unexpected angles
+5. Reading between the lines to understand what attackers are really trying to achieve
+6. Effectively managing both false alarms and the threats that slip through undetected
 
 ### 1.3 Research Objectives
 
